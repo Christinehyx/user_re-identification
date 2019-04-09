@@ -28,9 +28,11 @@ install face_recognition
 sudo pip install face_recognition
 ```
 If you cannot install face_recognition in this way, you can find more instruction in: https://github.com/ageitgey/face_recognition
+
 Step 2: Install Pepper python-SDK
 -------
 The link of this package is: https://community.aldebaran.com/en/resources/software
+
 After downloading the package, you need to set the environment variable:
 ```Bash
 sudo gedit devel/setup.bash
