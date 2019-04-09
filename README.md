@@ -56,3 +56,4 @@ Before running the program for this system, you need to run:
 roscore
 roslaunch iot_bridge iot.launch
 ```
+Now, you can run the the ros package which include the code above.
